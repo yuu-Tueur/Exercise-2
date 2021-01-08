@@ -9,4 +9,6 @@
 　python 2.7.17
  
 # 環境構築
-　
+1.本パッケージのインストールを行います
+```cd ~/catkin_ws/src
+git clone 
