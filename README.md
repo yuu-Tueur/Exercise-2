@@ -22,3 +22,9 @@ catkin_make
 rosrun mypkg traffic_light.py 
 ```
 
+# 実践動画
+下のURLから見ることができます
+https://youtu.be/BJxbhjLeAko
+
+# ライセンス
+This repository is licensed BSD 3-Clause License
