@@ -13,6 +13,9 @@
  
 # 環境構築
 1.本パッケージのインストールを行います
+
+※このパッケージはワークスペースがある前提です
+
 ```
 cd ~/catkin_ws/src
 git clone https://github.com/yuu-Tueur/Exercise-2.git
