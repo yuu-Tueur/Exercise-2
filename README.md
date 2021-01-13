@@ -22,7 +22,7 @@ catkin_make
 ```
 cd ~/catkin_ws/src/Exercise-2/scripts
 chmod +x traffic_light.py
-rosrun mypkg traffic_light.py 
+rosrun Exercise-2 traffic_light.py 
 ```
 
 # 実践動画
