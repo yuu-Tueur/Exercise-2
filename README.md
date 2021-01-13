@@ -20,7 +20,7 @@ catkin_make
 
 # 実行方法
 ```
-roscore
+roscore &
 cd ~/catkin_ws/src/Exercise-2/scripts
 chmod +x traffic_light.py
 rosrun Exercise-2 traffic_light.py 
