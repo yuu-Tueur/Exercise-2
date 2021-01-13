@@ -15,11 +15,13 @@ cd ~/catkin_ws/src
 git clone https://github.com/yuu-Tueur/Exercise-2.git
 cd ~/catkin_ws
 catkin_make
-chmod +x traffic_light.py
+
 ```
 
 # 実行方法
 ```
+cd ~/catkin_ws/src/Exercise-2/scripts
+chmod +x traffic_light.py
 rosrun mypkg traffic_light.py 
 ```
 
